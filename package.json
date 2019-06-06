@@ -1,0 +1,25 @@
+{
+  "name": "fairlyfunandfantasticfluffyfacts",
+  "version": "1.0.0",
+  "description": "Discord Bot for Fun Animal Facts!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/instafluff/FairlyFunAndFantasticFluffyFacts.git"
+  },
+  "author": "Instafluff",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/instafluff/FairlyFunAndFantasticFluffyFacts/issues"
+  },
+  "homepage": "https://github.com/instafluff/FairlyFunAndFantasticFluffyFacts#readme",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "dotenv": "^8.0.0",
+    "node-cron": "^2.0.3",
+    "node-fetch": "^2.6.0"
+  }
+}
