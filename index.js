@@ -55,17 +55,17 @@ ComfyWeb.Run( 8999 );
 const Discord = require('discord.js');
 const client = new Discord.Client();
 
-const cron = require("node-cron");
-cron.schedule("* * 23 * *", async function() {
+const ComfyClock = require("comfyclock");
+ComfyClock.Every[ "1d" ] = async function( date ) {
   console.log("---------------------");
   console.log("Retrieving Cat Fact");
   let catFact = await getCatFact();
-  const discordChannel = discord.channels.find(ch => ch.name.endsWith("fun-facts") );
+  const discordChannel = client.channels.find(ch => ch.name.endsWith("general") );
   if( !discordChannel ) return;
   const attachment = new Discord.Attachment( catFact.photo, "cat.jpg" );
   discordChannel.send( "**Today's Cat Fact:** " + catFact.fact, attachment );
   // discordChannel.send( "**Cat Fact:** " + catFact.fact, {files: [ catFact.photo ] } );
-});
+};
 
 function getCatFact() {
   return new Promise( async (res, rej) => {

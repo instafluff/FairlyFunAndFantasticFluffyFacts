@@ -18,11 +18,12 @@
   "homepage": "https://github.com/instafluff/FairlyFunAndFantasticFluffyFacts#readme",
   "dependencies": {
     "comfy.js": "^1.0.10",
+    "comfyclock": "^1.0.0",
     "comfydb": "^1.0.2",
+    "comfydiscord": "^1.0.0",
     "discord.js": "^11.5.1",
     "dotenv": "^8.0.0",
-    "node-cron": "^2.0.3",
-    "node-fetch": "^2.6.0",
-    "webwebweb": "^1.0.1"
+    "node-fetch": "^2.6.1",
+    "webwebweb": "^1.4.0"
   }
 }
