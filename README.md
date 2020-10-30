@@ -12,3 +12,7 @@ Thank you to everyone who helped bring Sean Bottery to life and give us all the 
 Thank you to everyone who helped expand facts to Bats, Wolves, Olympus Mons, and Pokemon!
 
 **MacABearMan, Instafriend, DutchGamer46, Instafluff, ChatTranslator, sethorizer, Grognardian, simrose4u, That_MS_Gamer, Patchshifter, Copperbeardy, Gilokk0, knugensugen, FuriousFur, bhen_chorde, sparky_pugwash, aj2017, LilyHazel, twallace123, Murader420, christogram, SausageCam, mightyh0bbes, XxPhantasmaxX, MaryJoStaebler, CreativeBuilds, ArliGames, Uberblacktorne, DaniOregon, smilesandtea, xRolo768, QuiiZyy, Stay_Hydrated_Bot, HeyOhKei, malfunct, talargonza, DawnPlayzGames, lewdmelon, mosot624, Rosuav, holloway87, Bjwhite211, Cloudhun, x8Cloud8x, trax314, Linol_Shadowcat, TheJollyMercenaryArt, Cazer, Maayainsane, Ella_Fint, trebonator, baileydale, kinglogannn, odhalyxz, merkurrz, MalForTheWin, DrMikachu, 01_pollux, jackconceprio, AspectMadDog, Underground_Violet_Doggo**
+
+Thank you to everyone who helped put Fluffy Facts on the web!
+
+**simrose4u, espionage_action, Instafluff, Ellenary, Instafriend, walpolea, sethorizer, That_MS_Gamer, inforbotandmusic, InforMatheMusic, KimballDonald, Mikey_yerG, Munin__, opti_21, tessvdv, wabes1, Syrelash, MeliKoalaStudio, DrWarHat, rozle_kot, The__Jive, LilyHazel, seasidesandies, nud3p1ay0r, WatermelonHammer, Bulbalight, gohaku88, Gurkenkater, JamesMontemagno, stabbykirby, itsbobaT, STBoarder, Sleepy_lycan, NickTheFirstOne, A_Ninja_For_Jesus_Bruh, wabeswife, JupiterZky, tinkereli, jellydance, irishspringreengreengods, mbcrump, Chibigirl24**
