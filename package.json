@@ -23,7 +23,7 @@
     "comfydiscord": "^1.0.0",
     "discord.js": "^11.5.1",
     "dotenv": "^8.0.0",
-    "node-fetch": "^2.6.1",
+    "node-fetch": "^3.1.1",
     "webwebweb": "^1.4.0"
   }
 }
